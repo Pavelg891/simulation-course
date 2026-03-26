@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\imitmodel\\lab4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11043FFA-C6D4-478C-B13A-4AFFF2662217}|lab4\\lab4.pyproj|D:\\imitmodel\\lab4\\lab4\\lab4\\lab4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11043FFA-C6D4-478C-B13A-4AFFF2662217}|lab4\\lab4.pyproj|solutionrelative:lab4\\lab4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.py",
+              "DocumentMoniker": "D:\\imitmodel\\lab4\\lab4\\lab4\\lab4.py",
+              "RelativeDocumentMoniker": "lab4\\lab4.py",
+              "ToolTip": "D:\\imitmodel\\lab4\\lab4\\lab4\\lab4.py",
+              "RelativeToolTip": "lab4\\lab4.py",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T16:56:25.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
